@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tamilvanan
-- 👀 I’m interested in Observability, Golang, Rust, GraphDB and TimeseriesDB
+- 👀 I’m interested in Observability, Golang, Rust
 - 🌱 I’m currently learning Golang and Rust
-- 💞️ I’m looking to collaborate on Timeseries DB.
+- 💞️ I’m looking to collaborate on Observability.
 - 📫 You can reach me on my mail tamilvanan2k18@gmail.com
 
 <!---
